@@ -6,7 +6,7 @@ Submitted by: **AADIBA HAQUE**
 
 Time spent: **3** hours spent in total
 
-Link to project: https://glitch.com/edit/#!/animated-fine-archaeology
+Link to project: https://glitch.com/~animated-fine-archaeology
 
 ## Required Functionality
 
